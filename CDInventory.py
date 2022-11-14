@@ -87,18 +87,3 @@ while True:
     else:
         print('invalid choice. try again')
     print('CDInventory')
-
-#print('ID \t CD Title \t Artist name' )
-#ListRow1= ['1\t| The Big Wheel \t| Runrig \t|\n2\t|  Bad \t| Michael Jackson \t|']
-#for each in ListRow1:
-#    print(each)
-
- 
-#Save the data to the text file CDInventory.txt if the user chooses so.   
-#objF= open ('C:\_FDProgramming\Assignment05\CDInventory.txt', 'w')
-#strRow=''
-#for item in ListRow1:
-#    strRow += str(item) + ','
-#strRow = strRow[:-1] + '\n'
-#objF.write(strRow)
-#objF.close()
